@@ -1,15 +1,29 @@
-<img href="https://github.com/The-Livrodjx/NLW4-React/blob/master/public/example.png" align="center">
+![Badge](https://github.com/The-Livrodjx/yals/blob/master/public/example.png)
 # YALS (Yet another link shortner)
 
 ## YALS is a simple link shortner, credits: shorturl.at/isxyI
 
-https://img.shields.io/static/v1?label=Typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT
-https://img.shields.io/static/v1?label=MongoDB&message=Database&color=green&style=for-the-badge&logo=MONGODB
-https://img.shields.io/static/v1?label=Nextjs&message=framework&color=black&style=for-the-badge&logo=REACT
+![Badge](https://img.shields.io/static/v1?label=Typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT)
+![Badge](https://img.shields.io/static/v1?label=MongoDB&message=Database&color=green&style=for-the-badge&logo=MONGODB)
+![Badge](https://img.shields.io/static/v1?label=Nextjs&message=framework&color=black&style=for-the-badge&logo=REACT)
 
 ## Getting Started
 
-First, run the development server:
+Clone the project 
+
+```bash
+  git clone https://github.com/The-Livrodjx/yals.git
+  
+  cd yals
+```
+
+Install all dependencies 
+
+```bash
+  npm install or yarn install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
