@@ -23,6 +23,12 @@ Install all dependencies
   npm install or yarn install
 ```
 
+Configs a env.local file
+
+```bash
+ MONGODB_URI="mongodb+srv://<MONGODB_USER>:<MONGO_DB_PASS>@cluster0.akglb.mongodb.net/<DB_NAME>?retryWrites=true&w=majority"
+```
+
 Run the development server:
 
 ```bash
