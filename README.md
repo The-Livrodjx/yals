@@ -5,7 +5,7 @@
 
 ![Badge](https://img.shields.io/static/v1?label=Typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT)
 ![Badge](https://img.shields.io/static/v1?label=MongoDB&message=Database&color=green&style=for-the-badge&logo=MONGODB)
-![Badge](https://img.shields.io/static/v1?label=Nextjs&message=framework&color=black&style=for-the-badge&logo=REACT)
+![Badge](https://img.shields.io/static/v1?label=Nextjs&message=framework&color=white&style=for-the-badge&logo=REACT)
 
 ## Getting Started
 
